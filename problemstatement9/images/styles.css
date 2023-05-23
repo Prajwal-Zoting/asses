@@ -1,0 +1,66 @@
+/* Custom CSS styles */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f8f9fa;
+    color: #333;
+  }
+  
+  table {
+    border-collapse: collapse;
+    margin-bottom: 20px;
+    width: 100%;
+  }
+  
+  th,
+  td {
+    padding: 10px;
+    border: 1px solid #ccc;
+    background-color: #f8f9fa;
+  }
+  
+  th {
+    background-color: #17a2b8;
+    color: #fff;
+  }
+  
+  a {
+    color: #007bff;
+    text-decoration: none;
+  }
+  
+  h1 {
+    font-size: 36px;
+    margin-bottom: 20px;
+  }
+  
+  h2.my-heading {
+    color: #007bff;
+    font-size: 24px;
+    margin-bottom: 15px;
+  }
+  
+  p.my-paragraph {
+    color: #28a745;
+    font-size: 16px;
+  }
+  
+  ol,
+  ul {
+    margin-left: 30px;
+  }
+  
+  .btn {
+    background-color: #dc3545;
+    color: #fff;
+    border-color: #dc3545;
+  }
+  
+  .btn:hover {
+    background-color: #c82333;
+    border-color: #c82333;
+  }
+  
+  .btn:focus {
+    box-shadow: 0 0 0 0.2rem rgba(220, 53, 69, 0.5);
+  }
+  
